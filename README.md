@@ -1,2 +1,2 @@
 # Karp-Rabin
-Karp-Rabin String matching using  the Rolling Hash ADT in python
+Karp-Rabin String matching using  the Rolling Hash ADT.
