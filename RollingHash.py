@@ -41,4 +41,4 @@ assert r.hash() == (ord('b')*256 + ord('c'))
 
 r.skip()
 assert r.hash() == ord('c')
-#['c']a
+#['c']
